@@ -1,4 +1,4 @@
-# NodeV (NVM windows)
+# Node Version Switcher (NVM windows)
 
 ## Introduction
 This is a script to make it easier to switch between different node version with nvm windows.
